@@ -1,4 +1,3 @@
-# FUTURE_DS_02
 Customer Churn Analysis Dashboard (Task 2)
 Overview
 
@@ -55,6 +54,3 @@ Churn Rate: 26.5%
 Files Included
 FUTURE_DS_02.xlsx (Excel dashboard and analysis)
 dashboard.png (Dashboard screenshot)
-Conclusion
-
-This analysis highlights the main factors influencing customer churn and provides actionable recommendations to improve retention and support better decision-making.
