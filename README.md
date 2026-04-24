@@ -1,5 +1,6 @@
 <img width="1443" height="723" alt="image" src="https://github.com/user-attachments/assets/ea5f3d42-531c-45c7-99fd-ffbc6cd1cc07" />
-Customer Churn Analysis Dashboard (Task 2)
+
+# Customer Churn Analysis Dashboard (Task 2)
 
 ## Overview
 
