@@ -1,11 +1,10 @@
 # FUTURE_DS_02
-Data Science Task 2 – Customer churn and retention analysis with insights and dashboard
 Customer Churn Analysis Dashboard (Task 2)
 Overview
 
 This project focuses on analyzing customer churn behavior for a subscription-based business. The goal is to identify key factors that influence customer retention and churn, and to provide actionable insights using data visualization.
 
-The analysis was performed using Microsoft Excel, with pivot tables and dashboards to explore trends and patterns in the data.
+The analysis was performed using Microsoft Excel, using pivot tables and dashboards to explore trends and patterns.
 
 Objectives
 Analyze customer churn patterns
@@ -28,26 +27,26 @@ Pivot Charts
 Data Cleaning and Transformation
 Dashboard Components
 1. Churn by Contract Type
-Month-to-month contracts show significantly higher churn compared to long-term contracts
-Customers with one-year and two-year contracts are more likely to stay
+Month-to-month contracts show significantly higher churn
+One-year and two-year contracts have better retention
 2. Churn by Payment Method
-Electronic check users have the highest churn rate
-Automatic payment methods (bank transfer and credit card) show lower churn
+Electronic check users have the highest churn
+Automatic payment methods show lower churn
 3. Churn by Tenure Group
-Customers with low tenure (0–12 months) have the highest churn
-Churn decreases as customer tenure increases
+Low-tenure customers (0–12 months) have the highest churn
+Churn decreases as tenure increases
 4. Churn by Monthly Charges
-Customers with higher monthly charges are more likely to churn
+Higher monthly charges are associated with higher churn
 Lower-cost plans have better retention
 Key Insights
 Month-to-month customers have the highest churn
-Electronic check users churn the most among payment methods
+Electronic check users churn the most
 Customers with low tenure are more likely to leave
-Higher monthly charges significantly increase churn risk
+Higher monthly charges increase churn risk
 Recommendations
 Encourage long-term contracts through incentives or discounts
 Improve onboarding experience for new customers
-Promote automatic payment methods to reduce churn
+Promote automatic payment methods
 Review pricing strategies for high-cost plans
 Key Metrics
 Total Customers: 7043
@@ -58,4 +57,4 @@ FUTURE_DS_02.xlsx (Excel dashboard and analysis)
 dashboard.png (Dashboard screenshot)
 Conclusion
 
-This analysis highlights the major factors influencing customer churn and provides practical recommendations to improve retention. The insights can help businesses make data-driven decisions to reduce customer loss and improve long-term growth.
+This analysis highlights the main factors influencing customer churn and provides actionable recommendations to improve retention and support better decision-making.
